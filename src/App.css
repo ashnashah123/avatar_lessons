@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.splash-page {
+  background: url(./images/avatar.jpg) center center;
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+
+
+.about {
+	background: url(./images/aang.jpg) center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
